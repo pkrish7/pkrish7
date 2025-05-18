@@ -19,5 +19,4 @@
 
 ---
 
-💼 LinkedIn: https://www.linkedin.com/in/preethy-krishnamoorthy/ | 📂 Resume:  | ✉️ Reach out via GitHub or LinkedIn
-
+💼 LinkedIn: https://www.linkedin.com/in/preethy-krishnamoorthy/ | 📂 Resume: Preethy Krishnamoorthy - Lead Software Engineer.pdf | ✉️ Reach out via GitHub or LinkedIn
